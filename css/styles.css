@@ -68,6 +68,7 @@ body {
 
 .nav-container {
     display: flex;
+    margin-right: auto;
 }
 
 .contact {
@@ -82,9 +83,6 @@ body {
     gap: 50px;
 }
 
-.nav-container {
-    margin-right: auto;
-}
 
 .header {
     /* padding-top: 24px;
